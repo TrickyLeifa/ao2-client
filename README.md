@@ -1,2 +1,2 @@
 # ao2-client [ReadOnly]
-Prevent accidental fork of the main source repository while helping out other forks.
+Prevents accidental forking of the main repository while helping out other forks.
